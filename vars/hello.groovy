@@ -1,3 +1,3 @@
 def call(){
-  echo "Hello world"
+  echo "Django project CICD Pipeline"
 }
